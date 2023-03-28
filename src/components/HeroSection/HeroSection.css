@@ -1,0 +1,17 @@
+.hero-section {
+  text-align: center;
+  background: #f9f9f9 url("https://doccure.dreamguystech.com/html/template/assets/img/search-bg.png") no-repeat bottom center;
+  background-blend-mode: Darken;
+  min-height: 450px;
+  color: #272b41;
+  padding: 80px 0px;
+}
+
+.hero-section h1 {
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.hero-section p {
+  font-size: 16px;
+}

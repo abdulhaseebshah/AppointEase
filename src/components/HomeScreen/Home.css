@@ -1,0 +1,10 @@
+.home-container {
+
+  background: linear-gradient(#25abb295, #25abb295),
+    url("https://www.targettraining.eu/wp-content/uploads/2019/02/meetings-practice.jpg");
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
