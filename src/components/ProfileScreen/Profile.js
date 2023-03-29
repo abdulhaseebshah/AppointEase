@@ -3,7 +3,9 @@ import React from "react";
 const Profile = () => {
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>Profile</h1>
+      <div className="title">
+        <h1>Profile</h1>
+      </div>
     </>
   );
 };

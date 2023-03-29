@@ -30,7 +30,7 @@
   font-size: 20px;
 }
 
-form input {
+.form-container form input {
   margin-bottom: 1.25rem;
   padding: 12px 8px;
   border: 1px solid #c4c4c4;
@@ -40,7 +40,7 @@ form input {
   font-size: 15px;
 }
 
-form button {
+.form-container form button {
   padding: .5rem 1rem;
   background-color: #09e5ab;
   border: 1px solid #09e5ab;

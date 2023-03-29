@@ -1,0 +1,34 @@
+{
+  "patient": [
+    {
+      "fname": "admin",
+      "lname": "sk",
+      "email": "admin@gmail.com",
+      "phone": "1122334455",
+      "date": "2023-03-29",
+      "time": "23:56",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "fname": "admin",
+      "lname": "sh",
+      "email": "admin1@gmail.com",
+      "phone": "5566112233",
+      "date": "2023-03-30",
+      "time": "00:07",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "fname": "abdul",
+      "lname": "haseeb",
+      "email": "haseebwe5@gmail.com",
+      "phone": "7249180374",
+      "date": "2023-03-30",
+      "time": "00:28",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}

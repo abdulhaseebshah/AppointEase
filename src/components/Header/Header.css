@@ -36,8 +36,14 @@ button.btn {
   text-transform: uppercase;
   font-weight: 500;
   transition: .5s;
+
 }
 
+header a.btn,
+button.btn:hover {
+  background: #09e5ab;
+  color: #fff;
+}
 
 header button.btn {
   border: 0px;
